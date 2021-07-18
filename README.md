@@ -12,3 +12,5 @@ Programming/Working Environment
     </ul>
   </li>
 </ul>
+
+<img src="https://github.com/akarshitkamra/SegmentDiscoveryDashboard/blob/bab063778cd4f30adad9c63a4b55a2e46e0b5290/Screenshot%20(573).png">
